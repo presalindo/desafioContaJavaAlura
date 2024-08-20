@@ -35,7 +35,7 @@ public class Desafio {
                     Dados iniciais do cliente:
                     Nome: %s
                     Tipo Conta: %s
-                    Saldo inicial: %.2f
+                    Saldo inicial: R$%.2f
                     ************************************
                     
                     Operações
@@ -49,7 +49,7 @@ public class Desafio {
             operacao = prompt.nextInt();
             switch (operacao){
                 case 1:
-                    System.out.println("Seu saldo atual é: " +saldo );
+                    System.out.println("Seu saldo atual é: R$" +saldo );
                     break;
                 case 2:
                     System.out.println("Digite o valor de deposito:");
