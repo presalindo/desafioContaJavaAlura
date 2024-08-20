@@ -1,5 +1,6 @@
 # desafioContaJavaAlura
 Desafio do Treinamento criando primeira aplicação java.
+Ministrado por @jacqueline-oliveira
 
 A ideia é controlarmos nossa conta bancária virtual e nomearemos os métodos como recebeTransferencia(), fazTransferencia(), enviaPix() ou recebePix(), por exemplo. Mas poderemos nomear como acharmos melhor.
 
